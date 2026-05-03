@@ -95,7 +95,7 @@
 
 ## 4. 现金流预测图
 
-![现金流预测图](reports/cashflow_forecast.png)
+![现金流预测图](./cashflow_forecast.png)
 
 ## 5. 建议执行顺序
 
