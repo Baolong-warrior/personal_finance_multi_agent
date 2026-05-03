@@ -1,0 +1,41 @@
+date,description,amount,account,type
+2026-01-01,Salary,25000,Checking,income
+2026-01-03,Rent,-6000,Checking,expense
+2026-01-05,Supermarket grocery,-1800,Checking,expense
+2026-01-06,Metro transport,-350,Checking,expense
+2026-01-08,Restaurant dinner,-900,Credit Card,expense
+2026-01-10,Internet phone bill,-450,Checking,expense
+2026-01-12,Amazon shopping,-1200,Credit Card,expense
+2026-01-16,Gym membership,-500,Checking,expense
+2026-01-20,Credit card repayment,-1000,Checking,expense
+2026-01-25,Movie and game,-700,Credit Card,expense
+2026-02-01,Salary,25000,Checking,income
+2026-02-03,Rent,-6000,Checking,expense
+2026-02-05,Supermarket grocery,-2100,Checking,expense
+2026-02-07,Taxi and metro,-600,Checking,expense
+2026-02-09,Coffee and restaurant,-1100,Credit Card,expense
+2026-02-11,Electric water utility,-520,Checking,expense
+2026-02-14,Taobao shopping,-2200,Credit Card,expense
+2026-02-18,Course book,-800,Checking,expense
+2026-02-21,Credit card repayment,-1500,Checking,expense
+2026-02-26,Hospital pharmacy,-650,Checking,expense
+2026-03-01,Salary,25000,Checking,income
+2026-03-03,Rent,-6000,Checking,expense
+2026-03-05,Grocery supermarket,-1900,Checking,expense
+2026-03-06,Train transport,-420,Checking,expense
+2026-03-08,Restaurant,-850,Credit Card,expense
+2026-03-12,Phone internet,-450,Checking,expense
+2026-03-15,JD shopping,-1600,Credit Card,expense
+2026-03-18,Insurance premium,-900,Checking,expense
+2026-03-20,Credit card repayment,-1500,Checking,expense
+2026-03-28,Bonus,5000,Checking,income
+2026-04-01,Salary,25000,Checking,income
+2026-04-03,Rent,-6000,Checking,expense
+2026-04-05,Supermarket,-2000,Checking,expense
+2026-04-07,Metro taxi,-550,Checking,expense
+2026-04-10,Restaurant coffee,-1150,Credit Card,expense
+2026-04-12,Electric utility,-560,Checking,expense
+2026-04-15,Shopping mall,-2600,Credit Card,expense
+2026-04-18,Book course,-900,Checking,expense
+2026-04-21,Credit card repayment,-2000,Checking,expense
+2026-04-25,Netflix entertainment,-300,Credit Card,expense

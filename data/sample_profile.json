@@ -1,0 +1,17 @@
+{
+  "name": "Demo User",
+  "age": 28,
+  "monthly_income_target": 25000,
+  "emergency_fund": 30000,
+  "investment_assets": 50000,
+  "cash_assets": 40000,
+  "risk_preference": "medium",
+  "goals": [
+    {"name": "Build emergency fund", "target_amount": 90000, "target_months": 12},
+    {"name": "Buy a car", "target_amount": 180000, "target_months": 36}
+  ],
+  "debts": [
+    {"name": "Credit Card", "balance": 12000, "apr": 0.18, "min_payment": 600},
+    {"name": "Student Loan", "balance": 35000, "apr": 0.045, "min_payment": 800}
+  ]
+}
